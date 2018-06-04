@@ -1,5 +1,3 @@
 # eliaskosunen.github.io
 
-My personal landing page.
-
-MIT License
+Migrated to [GitLab](https://gitlab.com/eliaskosunen/eliaskosunen.gitlab.io)
